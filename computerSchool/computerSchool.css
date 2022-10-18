@@ -1,0 +1,17 @@
+body{
+    width: 1000px;
+}
+header{
+    height: 120px;    
+    background-color: plum;
+}
+
+#logo{
+    position: absolute;
+    top: 50px;
+}
+#title{
+    position: absolute;
+    top: 0px;
+    left: 15%;
+}
